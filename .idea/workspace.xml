@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea08d530-1647-4142-8057-73846eeed171" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/nondsa/SwapNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/FibonacciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/GCDnLCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/MissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/NextPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/NumberReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/numbers/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/sorting/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/sorting/BookSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/sorting/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/sorting/EmployeeSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vmware/sorting/NumberSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/SlidingWindowUsingDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/SlidingWindowUsingPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/SumOfTwoNumbersEqualToK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dsa/SunOfTwoNumbersFromTwoArraysCloseToK.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mqOdFOnJcAOKWXyGCjcv4Lbg2j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.BookSorting.executor": "Run",
+    "Application.EmployeeSorting.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FibonacciSequence.executor": "Run",
+    "Application.GCDnLCM.executor": "Run",
+    "Application.Main.executor": "Coverage",
+    "Application.MissingNumberInArray.executor": "Run",
+    "Application.NextPalidrome.executor": "Run",
+    "Application.NumberReverse.executor": "Run",
+    "Application.NumberSorting.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.SlidingWindowUsingDeque.executor": "Run",
+    "Application.SlidingWindowUsingPriorityQueue.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SumOfTwoNumbersEqualToK.executor": "Run",
+    "Application.SunOfTwoNumbersFromTwoArraysCloseToK.executor": "Run",
+    "Application.SwapNumbers.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/armaansyed/IdeaProjects/StringDemo/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.NumberSorting">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vmware.numbers.ArmstrongNumber" />
+      <module name="StringDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vmware.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vmware.sorting.BookSorting" />
+      <module name="StringDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vmware.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vmware.sorting.EmployeeSorting" />
+      <module name="StringDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vmware.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vmware.numbers.Factorial" />
+      <module name="StringDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vmware.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vmware.sorting.NumberSorting" />
+      <module name="StringDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vmware.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberSorting" />
+        <item itemvalue="Application.BookSorting" />
+        <item itemvalue="Application.EmployeeSorting" />
+        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.Factorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea08d530-1647-4142-8057-73846eeed171" name="Changes" comment="" />
+      <created>1727800731790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727800731790</updated>
+      <workItem from="1728479684719" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vmware/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/StringDemo$Main.ic" NAME="Main Coverage Results" MODIFIED="1727877886608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
